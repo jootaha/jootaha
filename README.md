@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+![Animated profile banner](banner-animated.svg)
 👋 Hi there!<br><br>I’m a third-year Computer Science student majoring in Data Science who enjoys turning ideas into fun and useful code 💻✨  <br>I’m curious, competitive, and always learning.<br><br>**Quick facts about me:**<br>- 🎓 Data Science student at GIU<br>- 🏆 ECPC Finalist<br>- 💼 Former Intern at SCCT<br><br>Here you’ll find projects I’ve built throughout my journey—some for college and others just for fun.<br>
 
 ## 🌐 Socials:
