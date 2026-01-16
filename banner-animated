@@ -25,7 +25,7 @@
 
   <!-- Title -->
   <text x="60" y="78" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#ffffff">
-    Youssef — CS (Data Science)
+    Youssef Taha — CS (Data Science)
   </text>
 
   <!-- Subtitle with gentle float -->
@@ -42,3 +42,4 @@
     <animate attributeName="opacity" values="1;0.6;1" dur="1.4s" repeatCount="indefinite"/>
   </circle>
 </svg>
+
