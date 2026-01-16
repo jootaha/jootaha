@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br><br>I’m a third-year Computer Science student majoring in Data Science who enjoys turning ideas into fun and useful code 💻✨  <br>I’m curious, competitive, and always learning.<br><br>**Quick facts about me:**<br>- 🎓 Data Science student at GIU<br>- 🏆 ECPC Finalist<br>- 💼 Former Intern at SCCT<br><br>Here you’ll find projects I’ve built throughout my journey—some for college and others just for fun.<br>d the projects I’ve built throughout my journey—some as part of my college work and others just for fun.
-
+👋 Hi there!<br><br>I’m a third-year Computer Science student majoring in Data Science who enjoys turning ideas into fun and useful code 💻✨  <br>I’m curious, competitive, and always learning.<br><br>**Quick facts about me:**<br>- 🎓 Data Science student at GIU<br>- 🏆 ECPC Finalist<br>- 💼 Former Intern at SCCT<br><br>Here you’ll find projects I’ve built throughout my journey—some for college and others just for fun.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-taha-110012351/) 
